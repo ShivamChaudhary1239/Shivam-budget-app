@@ -1,4 +1,5 @@
-/* www.youtube.com/CodeExplained */
+/* www.youtube.com/shivamchaudhary */
+/* Youtube link : https://youtube.com/channel/UCGAtd4FYahbZjU1wSl5vr0w */
 
 // SELECT CHART ELEMENT
 const chart = document.querySelector(".chart");
@@ -36,3 +37,5 @@ function updateChart( income, outcome){
     drawCircle("#FFFFFF", - ratio, true);
     drawCircle("#F0624D", 1 - ratio, false);
 }
+
+/* Youtube link : https://youtube.com/channel/UCGAtd4FYahbZjU1wSl5vr0w */
