@@ -25,6 +25,8 @@ body{
     -ms-user-select: none;
     user-select: none;
 }
+/* Youtube link : https://youtube.com/channel/UCGAtd4FYahbZjU1wSl5vr0w */
+
 
 /* REMOVE SPINNERS FROM NUMBER INPUT */
 /* Chrome, Safari, Edge, Opera */
@@ -115,6 +117,7 @@ input[type=number] {
     color: #f0624d;
     font-family: 'Gilroy Bold';
 }
+/* Youtube link : https://youtube.com/channel/UCGAtd4FYahbZjU1wSl5vr0w */
 
 /*/////////////   DASHBOARD    /////////////*/
 .budget-dashboard{
@@ -169,6 +172,7 @@ input[type=number] {
     -ms-user-select: auto;
     user-select: auto;
 }
+/* Youtube link : https://youtube.com/channel/UCGAtd4FYahbZjU1wSl5vr0w */
 
 /* ////////// ALL ///////////// */
 .budget-dashboard #all{
