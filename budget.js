@@ -1,4 +1,5 @@
-/* www.youtube.com/CodeExplained */
+/* www.youtube.com/shivamchaudhary */
+/* https://youtube.com/channel/UCGAtd4FYahbZjU1wSl5vr0w */
 
 // SELECT ELEMENTS
 const balanceEl = document.querySelector(".balance .value");
@@ -203,6 +204,8 @@ function hide( elements ){
         element.classList.add("hide");
     })
 }
+
+/* https://youtube.com/channel/UCGAtd4FYahbZjU1wSl5vr0w */ 
 
 function active(element){
     element.classList.add("active");
